@@ -19,3 +19,8 @@ This cipher uses a block of two letters to encypt messages and then uses a keywo
 The general method of breaking the Playfair cipher is about performing frequency analysis of pairs of letters. Knowing estimated frequencies for a language that was used in the message, one can try to match frequent ciphertext pairs to frequent pairs of letters in the language.  The ammount of time is unknown for how long it would take to decode though.  It seems fairly complicated at first but once you get the patterns down it doesnt seem too bad.
 
 [Click Here](https://www.dcode.fr/playfair-cipher)for a website to decode playfair!
+=======
+# Final Analysis
+This code was very useful because it made breaking messages so much harder. The first published solution of the cypher was in a 19-page pamphlet, in 1914. The cypher is no longer used today because the modern technology of today is able to decipher it in miliseconds. 
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20190818175428/encryption-of-instruments.png)
